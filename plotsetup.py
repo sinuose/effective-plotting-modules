@@ -1,6 +1,8 @@
 '''
 Author: Martin Jasinski
 Purpose: Plotting Tools for quick setup
+
+Colors for Matplotlib: https://matplotlib.org/stable/tutorials/colors/colors.html
 '''
   
 # ---------------------------------------------------------------------------------------------------------------
